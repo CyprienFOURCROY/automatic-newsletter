@@ -1,7 +1,7 @@
 # automatic-newsletter
 From a dataset of articles, create an automatic newsletter using clusterisation over semantic embeddings and summarizing clusters with a powerful LLM.
 # Dataset
-A base of 581 articles from French newspapers, with thoses fields: URL, title, summary and date.
+A base of 589 articles from French newspapers, with thoses fields: URL, title, summary and date.
 # Embedding
 Vectorize summary using an embedder (SIM-CSE) in order to keep semantic meaning of articles 
 # Clusterization
